@@ -1,3 +1,7 @@
+"""
+Sends a message to my phone number every day at 10 am
+"""
+
 import requests
 import time
 import schedule
